@@ -870,6 +870,9 @@
       "panel": {
         "uri": "themes/DashboardTheme/panels/MobilePanel/Panel"
       }
-    }
+    },
+	"test":{
+		"test":"test"
+	}
   }
 }
